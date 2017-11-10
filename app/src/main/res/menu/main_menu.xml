@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Buscar"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/toolBuscar"/>
+
+    <item android:title="otro"
+        app:showAsAction="always"
+        android:icon="@mipmap/otroimg1"
+        android:id="@+id/toolOtro"/>
+</menu>
